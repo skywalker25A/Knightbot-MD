@@ -1,4 +1,4 @@
-const settings = {
++233555743562const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "Knight Bot",
